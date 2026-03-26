@@ -1,133 +1,278 @@
+<!--
+████████████████████████████████████████████████████████████
+  RAJAT DEY — GitHub Profile README
+  AI/ML Engineer | Full Stack Engineer | Founder @ Nexero
+  GitHub: Whitedevil00101
+████████████████████████████████████████████████████████████
+-->
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rajat%20Dey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Architect&descAlignY=55&descSize=18&animation=fadeIn" />
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              ANIMATED HEADER BANNER                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EC6F7&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Systems+%F0%9F%A4%96;Full-Stack+%2B+ML+%2B+Cloud+Architecture+%F0%9F%8C%A9%EF%B8%8F;Laravel+%7C+PHP+%7C+Python+%7C+React+Expert+%F0%9F%9A%80;Medical+AI+%26+Detection+Models+%F0%9F%A7%AC" alt="Typing SVG" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1117,70:0a192f,100:112240&height=280&section=header&text=Rajat%20Dey&fontSize=72&fontColor=64ffda&fontAlignY=42&fontAlign=50&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Engineer%20%7C%20Founder%20%40%20Nexero&descSize=17&descAlignY=62&descAlign=50&descColor=ccd6f6&animation=fadeIn&stroke=64ffda&strokeWidth=2" />
+
+<!-- Animated Typing Role Banner -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=720&lines=🧠+Architecting+AI+Systems+at+Scale;🔬+EfficientNet-B3+%2B+BiLSTM%2FCTC+on+1.6M+Samples;⚙️+Full-Stack+%7C+Laravel+%7C+PHP+%7C+Python+%7C+Go;🛡️+Anti-Drone+%7C+ADAS+%7C+ICR+Systems+Builder;📖+Published+Author+%7C+Hackathon+Top-5+Lead;🚀+Founder%2C+Nexero+—+90%25+Cost-Efficient+Delivery" alt="Typing SVG" />
+</a>
 
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajatdey)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatdey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rajatdey.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajat@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Whitedevil00101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Whitedevil00101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajat_Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajatdey)
+[![Gmail](https://img.shields.io/badge/Email-rajat.dey00101@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajat.dey00101@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-+91--8974814515-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918974814515)
+[![Location](https://img.shields.io/badge/Vadodara,_Gujarat-India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Vadodara,Gujarat)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Whitedevil00101&style=for-the-badge&color=64ffda&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Whitedevil00101?style=for-the-badge&color=64ffda&logo=github)](https://github.com/Whitedevil00101)
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Rajat Dey
+## 🧠 Professional Summary
 
-> **AI/ML Engineer & Full-Stack Architect** — I build systems that think, scale, and deliver.
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Whitedevil00101&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6" />
 
-I specialize in designing end-to-end intelligent platforms — from training deep learning models to deploying production-grade APIs and cloud-native infrastructure. My sweet spot is the **intersection of AI and Full-Stack Engineering**: robust backends, smart ML pipelines, and seamless frontends.
+```yaml
+Name       : Rajat Dey
+Role       : AI/ML Engineer | Full Stack Engineer
+Location   : Vadodara, Gujarat, India
+Education  : BCA (Hons) AI/ML — Parul University (2024–2028)
+Focus      : Cost-efficient, high-impact AI & software systems
+
+Strengths  :
+  - Architecting AI pipelines under constrained budgets
+  - Hybrid Deep Learning: CNN + RNN + CTC architectures
+  - Full-Stack delivery (Laravel, React, Go, PHP, Python)
+  - 90%+ cost reduction vs market on every project delivered
+
+Status     : Open to SDE | AI/ML | Research Roles
+```
+
+<br clear="right"/>
 
 ---
 
-## 🏗️ Tech Stack Architecture
+## 🏗️ System Architecture Overview
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                    AI / ML LAYER                                 ║
-║   TensorFlow · PyTorch · Mollib · Medical Detection Models       ║
-║   Laravel AI Model · Medical Q&A Systems · Model Endpoints       ║
-╠══════════════════════════════════════════════════════════════════╣
-║              INTEGRATED BACKEND & API LAYER                      ║
-║   PHP · Laravel · RESTful APIs · MVC Architecture               ║
-║   GoLang · Google APIs · Integrated Data Pipelines              ║
-╠══════════════════════════════════════════════════════════════════╣
-║              SCALABLE DATA INFRASTRUCTURE                        ║
-║   MySQL · MongoDB · Redis · Docker · Kubernetes                 ║
-║   CI/CD Pipelines · Microservices · GCP                         ║
-╚══════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────┐
+│                     🤖  AI / ML LAYER                               │
+│  EfficientNet-B3 · BiLSTM/CTC · SVM · XGBoost · Isolation Forest   │
+│  Computer Vision (ICR/OCR) · NLP · End-to-End ML Pipelines         │
+│  Google Vertex AI · Semi-Supervised Model Development               │
+├─────────────────────────────────────────────────────────────────────┤
+│                  ⚙️  BACKEND & API LAYER                            │
+│  Laravel · Flask · PHP · Go · Python · RESTful APIs                 │
+│  Razorpay · Shiprocket · Attendance · Payment Modules               │
+├─────────────────────────────────────────────────────────────────────┤
+│                  ☁️  CLOUD & INFRASTRUCTURE                         │
+│  GCP · Google Colab · Docker · Firebase · MySQL 8.4 · GitHub       │
+│  Vault (Model Security) · CI/CD · SEO-Optimized Architectures       │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Skills
 
 ### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### 🖥️ Backend
+**Classical ML:** XGBoost · Random Forest · SVM · Isolation Forest · K-Means · DBSCAN  
+**Deep Learning:** CNN (EfficientNet-B3, ResNet-50) · RNN (BiLSTM) · CTC · Hybrid Models  
+**Specializations:** Computer Vision (ICR/OCR, Object Detection) · NLP · End-to-End ML Pipelines
+
+### 🖥️ Backend & Full Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+### ☁️ Cloud, Databases & DevOps
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL_8.4-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧬 AI Medical Detection System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Laravel+PyTorch-red?style=flat-square" />
-      </p>
-      <p>
-        End-to-end medical image analysis platform using deep learning. Integrates custom CNN models with a Laravel backend and React frontend. Supports real-time inference via REST endpoints on GCP.
-      </p>
-      <p><strong>Tech:</strong> PyTorch · Laravel · React · GCP · Docker · MySQL</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚙️ Laravel AI Model Integration</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-PHP+TensorFlow-purple?style=flat-square" />
-      </p>
-      <p>
-        Seamlessly embeds ML inference pipelines into Laravel monoliths via microservice architecture. Supports async job queues, model versioning, and A/B testing of ML endpoints.
-      </p>
-      <p><strong>Tech:</strong> Laravel · TensorFlow · Redis · Docker · Go</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📊 Scalable Data Infrastructure</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-GCP+MongoDB-orange?style=flat-square" />
-      </p>
-      <p>
-        Architected a distributed data pipeline handling millions of records daily. Uses GCP Pub/Sub for event streaming, MongoDB sharding for scale, and SQL for transactional integrity.
-      </p>
-      <p><strong>Tech:</strong> GCP · MongoDB · MySQL · Kubernetes · Python</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔗 Full-Stack API Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Go+React-cyan?style=flat-square" />
-      </p>
-      <p>
-        High-performance RESTful API platform with Go backend, React frontend, and automated CI/CD on GCP. Features real-time dashboards, role-based auth, and sub-100ms response times.
-      </p>
-      <p><strong>Tech:</strong> Go · React · Docker · GCP · TypeScript</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔤 Gujarati ICR System *(Ongoing — 2026)*
+![Status](https://img.shields.io/badge/Status-Active-64ffda?style=flat-square)
+![Dataset](https://img.shields.io/badge/Dataset-1.6M_Samples-orange?style=flat-square)
+
+Architecting a **hybrid deep learning ICR system** combining EfficientNet-B3 (visual features) with BiLSTM/CTC (sequence decoding) on a 1.6M character dataset.
+
+- 🎯 Target: **>97% accuracy** baseline
+- 🔁 End-to-end pipeline: preprocessing → training → inference
+- 🧩 Hybrid architecture: CNN + RNN + CTC
+
+**Stack:** Python · EfficientNet-B3 · BiLSTM · CTC · OpenCV
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Anti-Drone Gun System *(NFSU/BSF — 2023-24)*
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Cost Reduction](https://img.shields.io/badge/Cost_Reduction-90%25-red?style=flat-square)
+
+Independently architected a **multi-frequency RF jamming system** targeting 2.4GHz, GPS, and Bluetooth for defense-grade drone neutralization.
+
+- 💰 Designed at **<₹1L** (~90% cost reduction vs market)
+- 🏆 **Vadodara Hackathon 5.0 — Top 5 Team Lead**
+- 🎯 Scalable deployment architecture for field use
+
+**Stack:** RF Systems · Computer Vision · Hardware Design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 ADAS Vehicle Planning *(NFU — 2023-24)*
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Team](https://img.shields.io/badge/Team-4_Members-blue?style=flat-square)
+![Cost Reduction](https://img.shields.io/badge/Cost_Reduction-70%25-red?style=flat-square)
+
+Led system planning in a **4-member team** to architect a cost-optimized ADAS hardware stack for autonomous vehicle assistance.
+
+- 💰 Reduced projected cost to **<₹10L** (70% below market)
+- 🧠 Sensor fusion + real-time CV pipeline design
+- 📐 Full hardware + software co-architecture
+
+**Stack:** Computer Vision · Sensor Fusion · Python · Embedded
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Platform *(Ommtonic Marketing — 2025-26)*
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+![Delivered At](https://img.shields.io/badge/Delivered_At-₹19.5k-yellow?style=flat-square)
+
+Custom Laravel e-commerce platform with full payment and logistics integrations, SEO-optimized architecture, production deployment.
+
+- 💳 **Razorpay** payments + **Shiprocket** logistics
+- 📈 SEO-optimized for organic growth
+- 💰 **₹19.5k** delivered (~90.3% cost reduction)
+
+**Stack:** Laravel · PHP · MySQL · Razorpay · Shiprocket
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 LMS Platform *(Aaradhya Coaching — 2023-24)*
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+![Delivered At](https://img.shields.io/badge/Delivered_At-₹26k-yellow?style=flat-square)
+
+Laravel-based **multi-user LMS** with attendance, content delivery, video streaming, and payment modules enabling full digital operations.
+
+- 🎥 Video + attendance + payment — one unified platform
+- 💰 Delivered at **₹26k** (~90% cost reduction)
+- 👥 Multi-role: Admin, Teacher, Student
+
+**Stack:** Laravel · PHP · MySQL · Video Streaming
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 SVM Spam Classifier *(PLASMID Internship)*
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Baseline-64%25_Accuracy-blue?style=flat-square)
+
+End-to-end **SVM-based spam classification pipeline** on ~5k dataset with complete data preprocessing, feature engineering, and model training.
+
+- 🔄 Full ML pipeline from raw data to deployment
+- 📊 64% accuracy — manual → automated filtering
+- 🧪 Semi-supervised model development applied
+
+**Stack:** Python · scikit-learn · SVM · NLP · Pandas
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Entrepreneurship
+
+<div align="center">
+
+### 🚀 Founder — Nexero *(2025–Present)*
+
+</div>
+
+> Founding and operating an IT services firm delivering **Custom Software Development** — LMS platforms, e-commerce systems, and bespoke business applications.
+
+| Metric | Value |
+|--------|-------|
+| 💰 Cost Efficiency | **90%+ below market** on every project |
+| 🔧 Services | Custom Software: LMS, E-commerce, APIs |
+| 🏗️ Delivery | End-to-end: Requirements → Architecture → Deployment |
+| 📍 Base | Vadodara, Gujarat, India |
+
+---
+
+## 📚 Publication & Recognition
+
+<table>
+<tr>
+<td width="50%">
+
+### 📖 Published Author
+**"Developing a Hacker's Mindset"**  
+*BlueRose Publishers — 2023*
+
+![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Flipkart](https://img.shields.io/badge/Flipkart-2874F0?style=for-the-badge&logo=flipkart&logoColor=white)
+![Google Books](https://img.shields.io/badge/Google_Books-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+Distributed on Amazon, Flipkart, and Google Books — exploring the offensive security mindset for builders and defenders.
+
+</td>
+<td width="50%">
+
+### 🏆 Achievements
+
+🥇 **Vadodara Hackathon 5.0**  
+→ **Top 5 Team · Team Lead**  
+→ Domain: Computer Vision / Anti-Drone Technology
+
+🎓 **BCA (Hons) AI/ML** — Sem 4  
+→ Parul University, Vadodara (2024–2028)
+
+🔬 **AI/ML Internship — PLASMID**  
+→ Semi-supervised model development  
+→ SVM spam classification pipeline
+
+</td>
+</tr>
 </table>
 
 ---
@@ -136,14 +281,20 @@ I specialize in designing end-to-end intelligent platforms — from training dee
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajatdey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatdey&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whitedevil00101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitedevil00101&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rajatdey&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Whitedevil00101&theme=tokyonight&border_radius=12&hide_border=true&background=0d1117&ring=64ffda&fire=ff6b35&currStreakLabel=64ffda)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Whitedevil00101&theme=tokyo-night&bg_color=0d1117&color=64ffda&line=64ffda&point=ff6b35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -153,64 +304,69 @@ I specialize in designing end-to-end intelligent platforms — from training dee
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajatdey&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Whitedevil00101&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🎯 What I Bring to Your Team
 
-<div align="center">
+```python
+rajat = {
+    "core_value"    : "90%+ cost efficiency without sacrificing quality or scale",
 
-[![Rajat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajatdey&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    "proven_impact" : [
+        "Architected ₹1L anti-drone RF jamming system (vs ₹10L+ market alternatives)",
+        "Delivered production LMS at ₹26k and e-commerce at ₹19.5k, end-to-end",
+        "Building 1.6M sample Gujarati ICR system targeting >97% accuracy",
+        "Hackathon Top-5 Team Lead — Computer Vision / Defense tech domain",
+        "Published author — 'Developing a Hacker's Mindset' (BlueRose, 2023)",
+    ],
 
-</div>
+    "ai_ml_depth"   : [
+        "Hybrid architectures: EfficientNet-B3 + BiLSTM/CTC",
+        "Classical ML: XGBoost, Random Forest, SVM, Isolation Forest",
+        "Semi-supervised learning, model security via Vault",
+        "Google Vertex AI, Prompt Engineering, GCP deployment",
+    ],
 
----
+    "engineering"   : "Build fast, ship lean, scale smart",
 
-## 💼 What I Bring to Your Team
-
-```yaml
-Core Strengths:
-  - Architecting AI-integrated full-stack systems from scratch to production
-  - Designing scalable, cloud-native microservice backends (GCP, Docker, K8s)
-  - Building and deploying ML pipelines (medical imaging, NLP, detection)
-  - Leading technical decisions across frontend, backend, and infrastructure
-  - Writing clean, maintainable code with a focus on performance and reliability
-
-Current Focus:
-  - Large Language Model (LLM) integration into enterprise applications
-  - Medical AI — detection, classification, and diagnostic assistance
-  - High-throughput API design with Go and Laravel
-  - MLOps: model versioning, monitoring, and automated retraining pipelines
-
-Open To:
-  - Senior / Lead AI/ML Engineer roles
-  - Full-Stack Architect positions
-  - Remote-friendly teams building impactful AI products
+    "open_to"       : [
+        "AI/ML Engineer — Research or Applied",
+        "Full-Stack Engineer / Backend Engineer",
+        "ML Internships — Remote or Hybrid, India",
+        "Research Collaborations in CV / NLP / ICR",
+    ],
+}
 ```
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let's Build Something
 
 <div align="center">
 
-> *"I don't just write code — I engineer systems that solve real problems at scale."*
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajatdey)
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajat@example.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://rajatdey.dev)
+> *"I don't just write code — I architect systems that solve real problems at a fraction of the cost."*  
+> *— Rajat Dey*
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rajatdey&style=for-the-badge&color=6EC6F7&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/📧_Email_Me-rajat.dey00101@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajat.dey00101@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajatdey)
+[![GitHub](https://img.shields.io/badge/👾_Follow-Whitedevil00101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Whitedevil00101)
+
+<br/>
 
 </div>
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,50:0a192f,100:000000&height=120&section=footer&animation=fadeIn" />
+
+*⭐ From [Whitedevil00101](https://github.com/Whitedevil00101) — Built with precision, shipped with purpose.*
+
 </div>
