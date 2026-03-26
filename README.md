@@ -15,16 +15,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1117,70:0a192f,100:112240&height=280&section=header&text=Rajat%20Dey&fontSize=72&fontColor=64ffda&fontAlignY=42&fontAlign=50&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Engineer%20%7C%20Founder%20%40%20Nexero&descSize=17&descAlignY=62&descAlign=50&descColor=ccd6f6&animation=fadeIn&stroke=64ffda&strokeWidth=2" />
 
 <!-- Animated Typing Role Banner -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=720&lines=🧠+Architecting+AI+Systems+at+Scale;🔬+EfficientNet-B3+%2B+BiLSTM%2FCTC+on+1.6M+Samples;⚙️+Full-Stack+%7C+Laravel+%7C+PHP+%7C+Python+%7C+Go;🛡️+Anti-Drone+%7C+ADAS+%7C+ICR+Systems+Builder;📖+Published+Author+%7C+Hackathon+Top-5+Lead;🚀+Founder%2C+Nexero+—+90%25+Cost-Efficient+Delivery" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Architecting+AI+Systems+at+Scale;EfficientNet-B3+%2B+BiLSTM%2FCTC+on+1.6M+Samples;Full-Stack+%7C+Laravel+%7C+PHP+%7C+Python+%7C+Go;Anti-Drone+%7C+ADAS+%7C+ICR+Systems+Builder;Published+Author+%7C+Hackathon+Top-5+Lead;Founder+%40+Nexero+%E2%80%94+90%25+Cost-Efficient+Delivery" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-Whitedevil00101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Whitedevil00101)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajat_Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajatdey)
-[![Gmail](https://img.shields.io/badge/Email-rajat.dey00101@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajat.dey00101@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-rajat.dey00101%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajat.dey00101@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+91--8974814515-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918974814515)
 [![Location](https://img.shields.io/badge/Vadodara,_Gujarat-India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Vadodara,Gujarat)
 
