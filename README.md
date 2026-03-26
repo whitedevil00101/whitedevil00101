@@ -282,7 +282,7 @@ Distributed on Amazon, Flipkart, and Google Books — exploring the offensive se
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Whitedevil00101&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Whitedevil00101&theme=darkhub&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
