@@ -57,26 +57,6 @@ Status     : Open to SDE | AI/ML | Research Roles
 
 <br clear="right"/>
 
----
-
-## 🏗️ System Architecture Overview
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                     🤖  AI / ML LAYER                               │
-│  EfficientNet-B3 · BiLSTM/CTC · SVM · XGBoost · Isolation Forest   │
-│  Computer Vision (ICR/OCR) · NLP · End-to-End ML Pipelines         │
-│  Google Vertex AI · Semi-Supervised Model Development               │
-├─────────────────────────────────────────────────────────────────────┤
-│                  ⚙️  BACKEND & API LAYER                            │
-│  Laravel · Flask · PHP · Go · Python · RESTful APIs                 │
-│  Razorpay · Shiprocket · Attendance · Payment Modules               │
-├─────────────────────────────────────────────────────────────────────┤
-│                  ☁️  CLOUD & INFRASTRUCTURE                         │
-│  GCP · Google Colab · Docker · Firebase · MySQL 8.4 · GitHub       │
-│  Vault (Model Security) · CI/CD · SEO-Optimized Architectures       │
-└─────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
